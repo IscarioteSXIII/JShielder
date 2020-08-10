@@ -85,6 +85,7 @@ chmod +x jshielder.sh
 ./jshielder.sh
 ;;
 
+3)
 cd UbuntuServer_20.04LTS/
 chmod +x jshielder.sh
 ./jshielder.sh
